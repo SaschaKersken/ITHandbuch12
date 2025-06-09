@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+  <paragraph>Dies ist ein XML-Dokument.</paragraph>
+  <paragraph>
+    Zeile <emphasis>vor</emphasis> Umbruch<break />
+    Zeile <emphasis>nach</emphasis> Umbruch
+  </paragraph>
+  <!-- Es folgt eine Liste -->
+  <list type="numbered">
+    <item>XML ist strukturiert.</item>
+    <item><![CDATA[Elemente werden so geschrieben: <element>...</element>]]></item>
+    <item>Kommentare sehen so aus: &lt;!-- Kommentar --&gt;</item>
+  </list>
+</document>
