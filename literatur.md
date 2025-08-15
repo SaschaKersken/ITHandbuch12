@@ -11,9 +11,9 @@ _Hinweise_: Die Links zu Amazon und zum Rheinwerk Verlag sind Affiliate-Links. D
 - Sedgewick, Robert; Wayne, Kevin: **Computer Science: An Interdisciplinary Approach**. Reading 2016, Addison-Wesley.<br />
   Gutes, modernes Informatiklehrbuch mit dem Schwerpunkt Programmierung; die Implementierung aller Beispiele erfolgt in Java.
   <br />[Bei Amazon bestellen](https://amzn.to/48cOwjo)
-- Hübscher, Heinrich et al.: **IT-Handbuch IT-Systemelektroniker/-in, Fachinformatiker/-in**, 12. Auflage. Braunschweig 2022, Westermann.<br />
+- Hübscher, Heinrich et al.: **IT-Handbuch IT-Systemelektroniker/-in, Fachinformatiker/-in**, 13. Auflage. Braunschweig 2025, Westermann.<br />
   Sammlung von Kurzinformationen und Tabellen zu den wichtigsten Ausbildungsinhalten der IT-Berufe.
-  <br />[Bei Amazon bestellen](https://amzn.to/41i7x1B)
+  <br />[Bei Amazon bestellen](https://amzn.to/41ubrpt)
 - Eschbach, Andreas: **NSA – Nationales Sicherheits-Amt**. Köln 2018, Bastei-Lübbe Verlag.<br />
   Ausnahmsweise kein Sachbuch, sondern ein Roman. Der spannende Alternate-History-Thriller geht davon aus, dass es Lord Charles Babbage gelungen ist, die Analytical Engine fertigzubauen – dementsprechend beginnt die Computergeschichte etwa 100 Jahre früher als in unserer Welt, während die sonstige Weltgeschichte zunächst parallel verläuft. So kommt es, dass Computer und das Internet (hier »Komputer« und »Weltnetz« genannt) ab 1933 den Nazis in die Hände fallen, die diese Technologien für eine noch entsetzlichere Perfektion ihrer Gewaltherrschaft benutzen, als aus unseren Geschichtsbüchern bekannt. So dient der Roman vor allem als abschreckendes Beispiel dafür, dass der grenzenlose Ausbau von Überwachungsinfrastruktur und -befugnissen auch in einer Demokratie gefährlich ist (vor allem kann das Ganze inklusive bereits gesammelter Daten einer später errichteten Diktatur in die Hände fallen), ist aber auch – wie bei Eschbach üblich – bezüglich der realen Geschichte brillant recherchiert und mitreißend geschrieben.
   <br />[Bei Amazon bestellen](https://amzn.to/3uYRQjs)
@@ -61,6 +61,9 @@ _Hinweise_: Die Links zu Amazon und zum Rheinwerk Verlag sind Affiliate-Links. D
 - Nagel, Ernest; Newman, James R.: **Gödel's Proof**. New York 2001, NYU Press.<br />
   Eine ohne Hochschulstudium der Mathematik verständliche Darstellung der gödelschen Unvollständigkeitssätze und ihres Beweises, den Kurt Gödel 1931 erbrachte.
   <br />[Bei Amazon bestellen](https://amzn.to/41fiP6w)
+- Petzold, Charles: **Code Wie Computer funktionieren**, Übersetzung der 2. Auflage. Frechen 2023, mitp Verlag.<br />
+  Eine faszinierende, gut verständliche und dennoch technisch anspruchsvolle Beschreibung der Funktionsweise von Computern, angefangen bei der Codierung von Zeichen und der Elektrizität über verschiedene Bauteile einschließlich dem Mikroprozessor bis hin zum Internet.
+  <br />[Bei Amazon bestellen](https://amzn.to/45k7ki3)
 
 ## Hardware
 ### Buch
@@ -71,6 +74,20 @@ _Hinweise_: Die Links zu Amazon und zum Rheinwerk Verlag sind Affiliate-Links. D
 - **Tom’s Hardware Guide**<br />
   [https://www.tomshardware.com](https://www.tomshardware.com)<br />
   Einkaufsberatung, Praxistests, Tipps und Lexikon zu aktueller PC-Hardware.
+
+## Netzwerkgrundlagen
+### Bücher
+- Tanenbaum, Andrew S.; Feamster, Nick; Wetherall, David J.: **Computernetzwerke**, 6. Auflage. München 2024, Pearson Studium.<br />
+  Eine wissenschaftlich orientierte umfassende Übersicht über verschiedenste Aspekte der Netzwerktechnik und -theorie.
+  <br />[Bei Amazon bestellen](https://amzn.to/4mNEqNa)
+- Dordal, Peter: **Rechnernetze – Das umfassende Lehrbuch**. Bonn 2023, Rheinwerk Verlag.<br />
+  Umfassendes Theorie- und Praxishandbuch zu allen wichtigen Aspekten der Netzwerktechnik.
+  <br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/rechnernetze-das-umfassende-lehrbuch/?GPP=kersken)
+  <br />[Bei Amazon bestellen](https://amzn.to/46U9DcN)
+- Schemberg, Axel; Linten, Martin; Surendorf, Kai: **PC-Netzwerke**, 9. Auflage. Bonn 2023, Rheinwerk Verlag.<br />
+  Das Buch beschreibt alle wesentlichen Aspekte der praktischen Vernetzung von Personal Computern und ihrer Anwendung. Einen Schwerpunkt bildet zum Beispiel die Einrichtung des freien Linux-Routers fli4l.
+  <br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/pc-netzwerke-das-umfassende-handbuch/?GPP=kersken)
+  <br />[Bei Amazon bestellen](https://amzn.to/3UqJbA2)
 
 ## Betriebssysteme
 ### Bücher
