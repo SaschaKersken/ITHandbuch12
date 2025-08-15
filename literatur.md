@@ -88,28 +88,32 @@ _Hinweise_: Die Links zu Amazon und zum Rheinwerk Verlag sind Affiliate-Links. D
   Das Buch beschreibt alle wesentlichen Aspekte der praktischen Vernetzung von Personal Computern und ihrer Anwendung. Einen Schwerpunkt bildet zum Beispiel die Einrichtung des freien Linux-Routers fli4l.
   <br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/pc-netzwerke-das-umfassende-handbuch/?GPP=kersken)
   <br />[Bei Amazon bestellen](https://amzn.to/3UqJbA2)
+### Webressourcen
+- **RFC Index**<br />
+  [https://www.ietf.org/rfc.html](https://www.ietf.org/rfc.html)<br />
+  RFC-Dokumente sind die autoritative Quelle für alle Internet- und TCP/IP-Standards.
 
 ## Betriebssysteme
 ### Bücher
 - Tanenbaum, Andrew S.; Bos, Herbert: **Moderne Betriebssysteme**, 4. Auflage. München 2016, Pearson Studium.<br />
   In diesem Buch wird zunächst in zahlreichen interessanten Kapiteln die gesamte Theorie der Betriebssystemtechnik geschildert: Prozess- und Speichermanagement, Gerätetreiber, Dateisysteme etc. Anschließend werden die beiden konkreten Beispiele Linux und Windows genauer untersucht. Hinweis: Viele Leser*innen raten von der deutschen Übersetzung ab; leider ist das englische Original, "Modern Operating Systems", meist noch teurer.
   <br />[Bei Amazon bestellen](https://amzn.to/3Rfwvda)
--	Heiting, Mareile: **Windows 11 – Das große Handbuch**. Bonn 2022, Vierfarben (Rheinwerk Verlag).<br />
+-	Heiting, Mareile: **Windows 11 – Das große Handbuch**. Bonn 2024, Vierfarben (Rheinwerk Verlag).<br />
   Ein sehr ausführliches Handbuch zu Windows 11.
  	<br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/windows-11-das-grosse-handbuch/?GPP=kersken)
  	<br />[Bei Amazon bestellen](https://amzn.to/41e96NW)
-- Kloep, Peter et al.: **Windows Server – Das umfassende Handbuch**. Bonn 2021, Rheinwerk Verlag.<br />
+- Kloep, Peter et al.: **Windows Server 2025 – Das umfassende Handbuch**, 3. Auflage. Bonn 2025, Rheinwerk Verlag.<br />
   Ein ebenso ausführliches Handbuch zur neuesten Serverversion von Microsoft Windows, das alle Serverrollen und Administrationswerkzeuge behandelt.
   <br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/windows-server-das-umfassende-handbuch/?GPP=kersken)
-  <br />[Bei Amazon bestellen](https://amzn.to/3GDp6j0)
+  <br />[Bei Amazon bestellen](https://amzn.to/4mNCswf)
 - Kofler, Michael: **Linux. Das umfassende Handbuch**, 18. Auflage. Bonn 2023, Rheinwerk Verlag.<br />
   Michael Kofler, einer der vielseitigsten deutschsprachigen EDV-Buchautoren, widmet sich auch in der neuen Auflage seines bekannten Standardwerks allen relevanten Themen zur erfolgreichen Inbetriebnahme und Anwendung eines Linux-Systems.
   <br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/linux-das-umfassende-handbuch/?GPP=kersken)
   <br />[Bei Amazon bestellen](https://amzn.to/48dG979)
-- Kofler, Michael: **Linux Kommandoreferenz**, 5. Auflage. Bonn 2020, Rheinwerk Verlag.<br />
+- Kofler, Michael: **Linux Kommandoreferenz**, 6. Auflage. Bonn 2024, Rheinwerk Verlag.<br />
   Kompakte Referenz zu allen wichtigen Befehlen und Tools des Betriebssystems Linux.
   <br />[Bei Rheinwerk bestellen](https://www.rheinwerk-verlag.de/linux-kommandoreferenz-shell-befehle-von-a-bis-z/?GPP=kersken)
-  <br />[Bei Amazon bestellen](https://amzn.to/47PTUsO)
+  <br />[Bei Amazon bestellen](https://amzn.to/41aLk6K)
 ### Webressourcen
 - **WinTotal**<br />
   [https://www.wintotal.de](https://www.wintotal.de)<br />
@@ -154,9 +158,9 @@ _Hinweise_: Die Links zu Amazon und zum Rheinwerk Verlag sind Affiliate-Links. D
   <br />[Bei Amazon bestellen](https://amzn.to/3uQGQVs)
 
 ## Weitere Konzepte der Programmierung
-- Friedl, Jeffrey E. F.: **Mastering Regular Expressions**, 3. Auflage. Sebastopol 2006, O’Reilly Media.<br />
-  Eine ausführliche Referenz zur Anwendung regulärer Ausdrücke in verschiedenen Programmiersprachen mit zahlreichen Praxisbeispielen.
-  <br />[Bei Amazon bestellen](https://amzn.to/41kYYmr)
+- Fitzgerald, Michael: **Einstieg in reguläre Ausdrücke**. Köln 2012, O’Reilly Verlag.<br />
+  Ein Einstieg in die Anwendung regulärer Ausdrücke in verschiedenen Programmiersprachen mit zahlreichen Praxisbeispielen.
+  <br />[Bei Amazon bestellen](https://amzn.to/46UxVDv)
 - Klein, Bernd: **Numerisches Python**, 2. Auflage. München 2023, Hanser Verlag.<br />
   Handbuch zu NumPy und verwandten mathematischen Python-Bibliotheken mit vielen Beispielen und Erläuterungen mathematischer Hintergründe. Die bereits genannte Website des Autors, [https://www.python-kurs.eu/](https://www.python-kurs.eu/), lohnt ebenfalls einen Besuch.
   <br />[Bei Amazon bestellen](https://amzn.to/3tdA8IB)
